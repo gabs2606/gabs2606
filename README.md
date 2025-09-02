@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Gabriela dos Santos de Lima
 
 **`Desenvolvedora FullStack`**
 
