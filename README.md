@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Gabriela dos Santos de Lima
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora em construção`**
 
 Me chamo Gabriela dos Santos de Lima. Concluí o ensino médio na ETEC Antonio Devisate, com o curso técnico em administração. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unimar. Estou buscando o meu desenvolvimento na área da tecnologia, através de projetos pessoais e aplicando o meu conhecimento em projetos reais.
 
